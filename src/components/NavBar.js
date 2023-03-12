@@ -16,11 +16,8 @@ function NavBar () {
     </div>
   </div>
 </nav>
-    ), cartWidget () {
-        return (
-            <i class="bi bi-cart3"></i>
-        )
-    }
+    ) 
+    
    
 }
 
